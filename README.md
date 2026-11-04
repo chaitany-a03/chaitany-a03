@@ -23,19 +23,21 @@
 
 <p>
   <a href="https://linkedin.com/in/chaitanya-patil03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <strong><span style="color:#0A66C2;">LinkedIn ↗</span></strong>
   </a>
+  &nbsp; ✦ &nbsp;
   <a href="https://github.com/chaitany-a03">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717" />
+    <strong><span style="color:#FFFFFF;">GitHub ↗</span></strong>
   </a>
+  &nbsp; ✦ &nbsp;
   <a href="https://leetcode.com/u/chaitany_a03">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+    <strong><span style="color:#FFA116;">LeetCode ↗</span></strong>
   </a>
+  &nbsp; ✦ &nbsp;
   <a href="mailto:patilchaitanya2710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <strong><span style="color:#EA4335;">Email ↗</span></strong>
   </a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
 <sub>DESIGN ✦ DEVELOP ✦ EXPERIMENT ✦ REPEAT</sub>
@@ -62,12 +64,12 @@ Computer Science student passionate about building web applications and explorin
 
 <br/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-171326?style=flat" />
-<img src="https://img.shields.io/badge/JWT-171326?style=flat" />
+<img src="https://img.shields.io/badge/FastAPI-171326?style=flat&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/REST_APIs-171326?style=flat&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/JWT-171326?style=flat&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-171326?style=flat&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon-171326?style=flat" />
-<img src="https://img.shields.io/badge/DSA-171326?style=flat" />
+<img src="https://img.shields.io/badge/Neon-171326?style=flat&logo=neon&logoColor=00E599" />
+<img src="https://img.shields.io/badge/DSA-171326?style=flat&logo=leetcode&logoColor=FFA116" />
 <img src="https://img.shields.io/badge/OOP-171326?style=flat" />
 <img src="https://img.shields.io/badge/DBMS-171326?style=flat" />
 <img src="https://img.shields.io/badge/Computer_Networks-171326?style=flat" />
