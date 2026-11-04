@@ -1,45 +1,49 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090912,50:17102A,100:090912&height=8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090912,50:17102A,100:090912&height=4" width="100%" />
 
-# <span style="color:#C9A4FF;">CHAITANYA PATIL</span>
+<h1>
+  <span style="color:#C9A4FF;">CHAITANYA PATIL</span>
+</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=57DDF4&center=true&vCenter=true&width=550&lines=Building+things+that+matter_;Turning+ideas+into+experiences;Designing.+Developing.+Deploying." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=57DDF4&center=true&vCenter=true&width=550&lines=~+%2F+building+things+that+matter_;Turning+ideas+into+experiences;Designing.+Developing.+Deploying." />
 
-**Full-Stack Developer** &nbsp; ✦ &nbsp; **Creative Thinker** &nbsp; ✦ &nbsp; **Problem Solver**
+<p>
+  Full-Stack Developer &nbsp;✦&nbsp; Creative Thinker &nbsp;✦&nbsp; Problem Solver
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-171326?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-171326?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-171326?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Java-171326?style=flat&logo=openjdk&logoColor=ED8B00" />
+</p>
 
-<img src="https://img.shields.io/badge/React-171326?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-171326?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-171326?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Java-171326?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<p>
+  <a href="https://chaitanya-portfolio-rosy.vercel.app/">
+    <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="https://chaitanya-portfolio-rosy.vercel.app/">
-  <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-241536?style=for-the-badge&labelColor=241536" />
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/chaitanya-patil03">LinkedIn ↗</a>
-&nbsp; ✦ &nbsp;
-<a href="https://github.com/chaitany-a03">GitHub ↗</a>
-&nbsp; ✦ &nbsp;
-<a href="https://leetcode.com/u/chaitany_a03">LeetCode ↗</a>
-&nbsp; ✦ &nbsp;
-<a href="mailto:patilchaitanya2710@gmail.com">Email ↗</a>
-
-<br/><br/>
+<p>
+  <a href="https://linkedin.com/in/chaitanya-patil03"><b>LinkedIn ↗</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://github.com/chaitany-a03"><b>GitHub ↗</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://leetcode.com/u/chaitany_a03"><b>LeetCode ↗</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="mailto:patilchaitanya2710@gmail.com"><b>Email ↗</b></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
 <sub>DESIGN ✦ DEVELOP ✦ EXPERIMENT ✦ REPEAT</sub>
 
 </div>
+
+---
+
+
 ### `01 / THE DEVELOPER`
 
 I'm a Computer Science & Engineering student at **Parul University**, passionate about building full-stack applications, exploring new technologies, and solving real-world problems through software.
