@@ -21,15 +21,20 @@
   <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
 </a>
 
-<p>
-  <a href="https://linkedin.com/in/chaitanya-patil03"><b>LinkedIn ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://github.com/chaitany-a03"><b>GitHub ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://leetcode.com/u/chaitany_a03"><b>LeetCode ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="mailto:patilchaitanya2710@gmail.com"><b>Email ↗</b></a>
-</p
+<p align="center">
+  <a href="https://linkedin.com/in/chaitanya-patil03">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chaitany-a03">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717"/>
+  </a>
+  <a href="https://leetcode.com/u/chaitany_a03">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:patilchaitanya2710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
 <sub>DESIGN ✦ DEVELOP ✦ EXPERIMENT ✦ REPEAT</sub>
