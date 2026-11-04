@@ -1,18 +1,21 @@
  <div align="center">
 
-# CHAITANYA PATIL
+# <span style="color:#C4A1FF;">CHAITANYA PATIL</span>
 
-### `Full-Stack Developer` · `Computer Science Engineer`
+### <span style="color:#55D9F0;">~ / building things that matter_</span>
 
-*I turn ideas into interactive experiences and practical software solutions.*
+Full-Stack Developer | Creative Thinker | Problem Solver
 
-[**Explore My Portfolio ↗**](https://chaitanya-portfolio-rosy.vercel.app/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-063D28?style=flat&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-42220D?style=flat&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
+
+### [ Explore my portfolio ↗](https://chaitanya-portfolio-rosy.vercel.app/)
 
 [LinkedIn](https://linkedin.com/in/chaitanya-patil03) · [GitHub](https://github.com/chaitany-a03) · [LeetCode](https://leetcode.com/u/chaitany_a03) · [Email](mailto:patilchaitanya2710@gmail.com)
 
 </div>
-
----
 
 ### `01 / THE DEVELOPER`
 
