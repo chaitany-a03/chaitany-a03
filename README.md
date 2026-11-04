@@ -21,15 +21,15 @@
   <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
 </a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/chaitanya-patil03"><b>🔵 LinkedIn</b></a>
+<p>
+  <a href="https://linkedin.com/in/chaitanya-patil03"><b>LinkedIn ↗</b></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://github.com/chaitany-a03"><b>⚪ GitHub</b></a>
+  <a href="https://github.com/chaitany-a03"><b>GitHub ↗</b></a>
   &nbsp; ✦ &nbsp;
-  <a href="https://leetcode.com/u/chaitany_a03"><b>🟡 LeetCode</b></a>
+  <a href="https://leetcode.com/u/chaitany_a03"><b>LeetCode ↗</b></a>
   &nbsp; ✦ &nbsp;
-  <a href="mailto:patilchaitanya2710@gmail.com"><b>🔴 Email</b></a>
-</p>
+  <a href="mailto:patilchaitanya2710@gmail.com"><b>Email ↗</b></a>
+</p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
 <sub>DESIGN ✦ DEVELOP ✦ EXPERIMENT ✦ REPEAT</sub>
