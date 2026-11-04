@@ -22,15 +22,13 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-8B5CF6?style=flat&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DSA-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OOP-9B72CF?style=flat"/>
-  <img src="https://img.shields.io/badge/DBMS-3776AB?style=flat"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-06B6D4?style=flat"/>
+  <a href="https://linkedin.com/in/chaitanya-patil03"><b>🔵 LinkedIn</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://github.com/chaitany-a03"><b>⚪ GitHub</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://leetcode.com/u/chaitany_a03"><b>🟡 LeetCode</b></a>
+  &nbsp; ✦ &nbsp;
+  <a href="mailto:patilchaitanya2710@gmail.com"><b>🔴 Email</b></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
