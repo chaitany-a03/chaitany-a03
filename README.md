@@ -59,37 +59,35 @@ Computer Science student passionate about building web applications and explorin
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/><br/>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br/>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/><br/>HTML5</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/><br/>CSS3</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="55"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="42"/><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="42"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="42"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="42"/><br/>HTML5</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="42"/><br/>CSS3</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="42"/><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="42"/><br/>Express</td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="55"/><br/>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="55"/><br/>Prisma</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/><br/>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="55"/><br/>Vercel</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55"/><br/>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="42"/><br/>Prisma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="42"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42"/><br/>Vercel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="42"/><br/>Figma</td>
+<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="42"/><br/>FastAPI</td>
+<td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="42"/><br/>REST APIs</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="55"/><br/>FastAPI</td>
-<td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="55"/><br/>REST APIs</td>
-<td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="55"/><br/>JWT</td>
-<td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="55"/><br/>Render</td>
-<td align="center"><img src="https://cdn.simpleicons.org/neon/00E599" width="55"/><br/>Neon</td>
-<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/><br/>DSA</td>
-<td align="center"><img src="https://cdn.simpleicons.org/thealgorithms/9B72CF" width="55"/><br/>OOP</td>
-<td align="center"><img src="https://cdn.simpleicons.org/databricks/FFFFFF" width="55"/><br/>DBMS</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/cisco/06B6D4" width="55"/><br/>Computer Networks</td>
+<td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="42"/><br/>JWT</td>
+<td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="42"/><br/>Render</td>
+<td align="center"><img src="https://cdn.simpleicons.org/neon/00E599" width="42"/><br/>Neon</td>
+<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/><br/>DSA</td>
+<td align="center"><img src="https://cdn.simpleicons.org/thealgorithms/9B72CF" width="42"/><br/>OOP</td>
+<td align="center"><img src="https://cdn.simpleicons.org/databricks/FFFFFF" width="42"/><br/>DBMS</td>
+<td align="center"><img src="https://cdn.simpleicons.org/cisco/06B6D4" width="42"/><br/>Computer Networks</td>
 </tr>
 </table>
 
