@@ -1,16 +1,14 @@
  <div align="center">
 
+<!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090912,50:17102A,100:090912&height=4" width="100%" />
 
-<h1>
-  <span style="color:#C9A4FF;">CHAITANYA PATIL</span>
-</h1>
+# <span style="color:#C9A4FF;">CHAITANYA PATIL</span>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=57DDF4&center=true&vCenter=true&width=550&lines=~+%2F+building+things+that+matter_;Turning+ideas+into+experiences;Designing.+Developing.+Deploying." />
 
-<p>
-  Full-Stack Developer &nbsp;✦&nbsp; Creative Thinker &nbsp;✦&nbsp; Problem Solver
-</p>
+**Full-Stack Developer** &nbsp; ✦ &nbsp; **Creative Thinker** &nbsp; ✦ &nbsp; **Problem Solver**
 
 <p>
   <img src="https://img.shields.io/badge/React-171326?style=flat&logo=react&logoColor=61DAFB" />
@@ -19,20 +17,23 @@
   <img src="https://img.shields.io/badge/Java-171326?style=flat&logo=openjdk&logoColor=ED8B00" />
 </p>
 
-<p>
-  <a href="https://chaitanya-portfolio-rosy.vercel.app/">
-    <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
-  </a>
-</p>
+<a href="https://chaitanya-portfolio-rosy.vercel.app/">
+  <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
+</a>
 
 <p>
-  <a href="https://linkedin.com/in/chaitanya-patil03"><b>LinkedIn ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://github.com/chaitany-a03"><b>GitHub ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://leetcode.com/u/chaitany_a03"><b>LeetCode ↗</b></a>
-  &nbsp; ✦ &nbsp;
-  <a href="mailto:patilchaitanya2710@gmail.com"><b>Email ↗</b></a>
+  <a href="https://linkedin.com/in/chaitanya-patil03">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chaitany-a03">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=181717" />
+  </a>
+  <a href="https://leetcode.com/u/chaitany_a03">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:patilchaitanya2710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
@@ -43,68 +44,65 @@
 
 ---
 
+<!-- ABOUT -->
 
-### `01 / THE DEVELOPER`
+<h2>✦ ABOUT ME</h2>
 
-I'm a Computer Science & Engineering student at **Parul University**, passionate about building full-stack applications, exploring new technologies, and solving real-world problems through software.
-
-I enjoy working across the development lifecycle — from designing interfaces and building APIs to database architecture and deployment.
-
-- Currently exploring: Full-stack development and software engineering.
-- Interested in: Building scalable applications and solving engineering problems.
-- Experience: Hackathon projects, application development, and practical software systems.
-- Location: Vadodara, India.
-
-### `02 / SELECTED PROJECTS`
-
-| Project | What I built |
-|---|---|
-| **IDRO** | Intelligent Disaster Resource Optimizer — AI-assisted disaster resource allocation and coordination. |
-| **Traveloop** | Smart travel planning platform with itinerary generation and hidden-gem discovery. |
-| **Shiv Furniture ERP** | ERP and CRM solution for inventory, sales, purchasing, and manufacturing workflows. |
-| **TradeTrust** | Application development project focused on digital trade workflows. |
-
-<h2>⚡ Tech Stack</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### `04 / ACHIEVEMENTS & CERTIFICATIONS`
-
-- Top 5 finalist — PU Code Hackathon 3.0.
-- Oracle Certified Professional — Java SE 17.
-- Oracle SQL / PL/SQL certification.
-- Oracle APEX certification.
-- NPTEL Computer Networks certification.
-
-### `05 / BEYOND THE CODE`
-
-I believe good engineering is about more than writing code.
-
-I enjoy exploring new ideas, understanding how systems work, learning through hands-on projects, and continuously improving my problem-solving skills.
+Computer Science student passionate about building web applications and exploring new technologies. I enjoy turning ideas into practical solutions, experimenting with creative designs, and learning something new every day.
 
 ---
 
+<!-- TECH STACK -->
+
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+## ⚡ TECH STACK & TOOLS
 
-*Open to opportunities, collaboration, and interesting engineering challenges.*
+<img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vercel,figma&perline=8&theme=dark" />
 
-[Portfolio ↗](https://chaitanya-portfolio-rosy.vercel.app/) · [Connect on LinkedIn ↗](https://linkedin.com/in/chaitanya-patil03)
+<br/>
 
-**Chaitanya Patil © 2026**
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-171326?style=flat" />
+<img src="https://img.shields.io/badge/JWT-171326?style=flat" />
+<img src="https://img.shields.io/badge/Render-171326?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Neon-171326?style=flat" />
+<img src="https://img.shields.io/badge/DSA-171326?style=flat" />
+<img src="https://img.shields.io/badge/OOP-171326?style=flat" />
+<img src="https://img.shields.io/badge/DBMS-171326?style=flat" />
+<img src="https://img.shields.io/badge/Computer_Networks-171326?style=flat" />
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+<div align="center">
+
+## ✦ LET'S CONNECT
+
+Always happy to connect, exchange ideas, collaborate and build something interesting.
+
+<a href="https://linkedin.com/in/chaitanya-patil03">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/chaitany-a03">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" />
+</a>
+<a href="https://leetcode.com/u/chaitany_a03">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:patilchaitanya2710@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### KEEP BUILDING. KEEP EXPLORING.
+
+<sub>Thanks for stopping by ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=3&section=footer" width="100%" />
 
 </div>
