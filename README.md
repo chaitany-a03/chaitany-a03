@@ -1,22 +1,45 @@
  <div align="center">
 
-# <span style="color:#C4A1FF;">CHAITANYA PATIL</span>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090912,50:17102A,100:090912&height=8" width="100%" />
 
-### <span style="color:#55D9F0;">~ / building things that matter_</span>
+# <span style="color:#C9A4FF;">CHAITANYA PATIL</span>
 
-Full-Stack Developer | Creative Thinker | Problem Solver
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=57DDF4&center=true&vCenter=true&width=550&lines=Building+things+that+matter_;Turning+ideas+into+experiences;Designing.+Developing.+Deploying." alt="Typing SVG" />
+</a>
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-063D28?style=flat&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
-[![Java](https://img.shields.io/badge/Java-42220D?style=flat&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
+**Full-Stack Developer** &nbsp; ✦ &nbsp; **Creative Thinker** &nbsp; ✦ &nbsp; **Problem Solver**
 
-### [ Explore my portfolio ↗](https://chaitanya-portfolio-rosy.vercel.app/)
+<br/>
 
-[LinkedIn](https://linkedin.com/in/chaitanya-patil03) · [GitHub](https://github.com/chaitany-a03) · [LeetCode](https://leetcode.com/u/chaitany_a03) · [Email](mailto:patilchaitanya2710@gmail.com)
+<img src="https://img.shields.io/badge/React-171326?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-171326?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-171326?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Java-171326?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+
+<br/><br/>
+
+<a href="https://chaitanya-portfolio-rosy.vercel.app/">
+  <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-241536?style=for-the-badge&labelColor=241536" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/chaitanya-patil03">LinkedIn ↗</a>
+&nbsp; ✦ &nbsp;
+<a href="https://github.com/chaitany-a03">GitHub ↗</a>
+&nbsp; ✦ &nbsp;
+<a href="https://leetcode.com/u/chaitany_a03">LeetCode ↗</a>
+&nbsp; ✦ &nbsp;
+<a href="mailto:patilchaitanya2710@gmail.com">Email ↗</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
+
+<sub>DESIGN ✦ DEVELOP ✦ EXPERIMENT ✦ REPEAT</sub>
 
 </div>
-
 ### `01 / THE DEVELOPER`
 
 I'm a Computer Science & Engineering student at **Parul University**, passionate about building full-stack applications, exploring new technologies, and solving real-world problems through software.
