@@ -21,22 +21,16 @@
   <img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-29163F?style=for-the-badge&labelColor=29163F" />
 </a>
 
-<p>
-  <a href="https://linkedin.com/in/chaitanya-patil03">
-    <strong><span style="color:#0A66C2;">LinkedIn ↗</span></strong>
-  </a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://github.com/chaitany-a03">
-    <strong><span style="color:#FFFFFF;">GitHub ↗</span></strong>
-  </a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://leetcode.com/u/chaitany_a03">
-    <strong><span style="color:#FFA116;">LeetCode ↗</span></strong>
-  </a>
-  &nbsp; ✦ &nbsp;
-  <a href="mailto:patilchaitanya2710@gmail.com">
-    <strong><span style="color:#EA4335;">Email ↗</span></strong>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-8B5CF6?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OOP-9B72CF?style=flat"/>
+  <img src="https://img.shields.io/badge/DBMS-3776AB?style=flat"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-06B6D4?style=flat"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:22D3EE,100:8B5CF6&height=2&section=footer" width="100%" />
 
@@ -60,19 +54,21 @@ Computer Science student passionate about building web applications and explorin
 
 ## ⚡ TECH STACK & TOOLS
 
-<img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vercel,figma&perline=8&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,vercel,figma&perline=8&theme=dark" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-171326?style=flat&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/REST_APIs-171326?style=flat&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/JWT-171326?style=flat&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-171326?style=flat&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/Neon-171326?style=flat&logo=neon&logoColor=00E599" />
-<img src="https://img.shields.io/badge/DSA-171326?style=flat&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/OOP-171326?style=flat" />
-<img src="https://img.shields.io/badge/DBMS-171326?style=flat" />
-<img src="https://img.shields.io/badge/Computer_Networks-171326?style=flat" />
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-9B72CF?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-3776AB?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-06B6D4?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 </div>
 
