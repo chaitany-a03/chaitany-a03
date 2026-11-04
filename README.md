@@ -62,17 +62,8 @@ Computer Science student passionate about building web applications and explorin
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-171326?style=flat&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/REST_APIs-171326?style=flat&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/JWT-171326?style=flat&logo=jsonwebtokens&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Render-171326?style=flat&logo=render&logoColor=46E3B7" />
-  <img src="https://img.shields.io/badge/Neon-171326?style=flat&logo=neon&logoColor=00E599" />
-  <img src="https://img.shields.io/badge/DSA-171326?style=flat&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/OOP-171326?style=flat&logo=thealgorithms&logoColor=9B72CF" />
-  <img src="https://img.shields.io/badge/DBMS-171326?style=flat&logo=databricks&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Computer_Networks-171326?style=flat&logo=cisco&logoColor=06B6D4" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postman,jwt,redis,neon,leetcode&theme=dark" />
 </p>
-
 </div>
 ---
 
