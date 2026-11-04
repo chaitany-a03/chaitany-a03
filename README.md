@@ -62,15 +62,15 @@ Computer Science student passionate about building web applications and explorin
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/◈_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/◉_REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/✳_JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/⬡_Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/◈_Neon-00C896?style=for-the-badge&logo=neon&logoColor=black" />
-  <img src="https://img.shields.io/badge/⌘_DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/◇_OOP-9B72CF?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/▤_DBMS-3776AB?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/⌘_Computer_Networks-06B6D4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neon-00C896?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-9B72CF?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-3776AB?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-06B6D4?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 </div>
